@@ -42,8 +42,11 @@ Habilitando funções e atalhos para facilitar o dia a dia no console :)
 3. No arquivo que abrirá, cole o conteúdo do arquivo `Microsoft.PowerShell_profile.ps1`;
 4. Salve e feche o powershell;
 
-Pronto, abra novamente o powershell e as funções acima estarão ativadas;
-Por padrão, o script do Baboo de limpeza do PC não funcionará de início, acesse [este artigo](https://baboo.com.br/script), baixe e salve em uma pasta do seu computador, copie o caminho do arquivo e altere o script;
-Na linha onde está `"ccleaner.bat"` você coloca o caminho completo para o arquivo baixado.
+Pronto, abra novamente o powershell e as funções acima estarão ativadas.
+
+## OBS:
+
+   - Por padrão, de início o script do Baboo de limpeza do PC não funcionará, acesse [este artigo](https://baboo.com.br/script), baixe e salve em uma pasta do seu computador, copie o caminho do arquivo e altere o script:
+   - Na linha onde está `"ccleaner.bat"` você coloca o caminho completo para o arquivo baixado.
 
 Adicione mais funções, altere o ASCII, be free.
